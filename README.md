@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey, I'm Cassandro 👋
+
+💼 I'm a passionate Data Scientist with 3+ years of expertise.
+
+🤖 I don't like routine and automate every repetitive task that I can. 
+
+⚡ In my spare time I enjoy trying new activities, traveling, reading, and sports.
 
 <!--
 **cassandro-m/cassandro-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
