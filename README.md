@@ -1,6 +1,6 @@
 ## Hey, I'm Cassandro 👋
 
-💼 I'm a passionate Data Scientist with 3+ years of expertise.
+💼 I'm a passionate Data Scientist/ML Engineer with 3+ years of expertise.
 
 🤖 I don't like routine and automate every repetitive task that I can. 
 
