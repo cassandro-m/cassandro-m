@@ -9,7 +9,7 @@
 <!--🏡 [website][website] **|** 
 📷 [instagram][instagram] **|** -->
 
-👔 [linkedin][linkedin]
+[linkedin][linkedin]
 
 <!--
 [website]: https://bradgarropy.com
