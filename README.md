@@ -1,4 +1,4 @@
-## Hey, I'm Cassandro 👋
+## Hey, I'm Cassandro Martinho
 
 💼 I'm a passionate Data Scientist/ML Engineer with 3+ years of expertise.
 
