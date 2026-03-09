@@ -1,6 +1,6 @@
 ## Hey, I'm Cassandro Martinho
 
-💼 I'm a passionate Data Scientist/ML Engineer with 3+ years of expertise.
+💼 I'm a passionate Data Scientist/ML Engineer with 4+ years of expertise.
 
 🤖 I don't like routine and automate every repetitive task that I can. 
 
